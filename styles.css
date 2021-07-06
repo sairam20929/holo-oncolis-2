@@ -826,12 +826,15 @@ a{
     position: absolute;
     right: 0;
     top: 50px;
+    margin: 0;
 }
 .lower-section4{
     height: 50vh;
     display: flex;
     justify-content: space-between;
     position: relative;
+    /* background-color: brown; */
+    font-family: 'work sans',sans-serif;
     /* display: none; */
 }
 .lower-left-section4-container{
@@ -905,14 +908,13 @@ a{
 .section-6{
     height: 100vh;
     position: relative;
+    /* background-color: blue; */
+    font-family: 'work sans' ,sans-serif;
     
-}
-.new-cant{
-    background-color: bisque;
 }
 .left-s6-wrapper{
     position: absolute;
-    top: 40vh;
+    top: 7vh;
     left: 4%;
 }
 .right-section-6{
